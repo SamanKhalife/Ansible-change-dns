@@ -18,11 +18,11 @@ Example Playbook
 
 Include the role in Playbook
 
-```
-    - hosts: all
-      become: true
-      roles:
-        - role: samankhalife.Changing-Dns
+```yml
+- hosts: all
+  become: true
+  roles:
+    - role: samankhalife.Changing-Dns
 ```
 Note
 -----
@@ -32,7 +32,7 @@ or
 
 just define it in your playbook
 
-```
+```yml
 - hosts: all
   become: true
   roles:
