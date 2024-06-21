@@ -11,8 +11,7 @@ galaxy_info:
       versions:
         - all
   galaxy_tags:
-    - Dns
     - dns
-    - Setting-Dns
-    - Changing-Dns
+    - setting_dns
+    - changing_dns
 dependencies: []
