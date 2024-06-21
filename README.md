@@ -22,7 +22,8 @@ Include the role in Playbook
 - hosts: all
   become: true
   roles:
-    - role: samankhalife.Changing-Dns
+    - role: SamanKhalife.changing_dns
+
 ```
 Note
 -----
@@ -36,7 +37,7 @@ just define it in your playbook
 - hosts: all
   become: true
   roles:
-    - role: samankhalife.Changing-Dns
+    - role: SamanKhalife.changing_dns
       vars:
         nameservers:
           - 9.9.9.9
