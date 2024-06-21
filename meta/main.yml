@@ -11,6 +11,6 @@ galaxy_info:
       versions:
         - all
   galaxy_tags:
-    - dns
-    - resolv.conf
+    - "dns"
+    - "resolv.conf"
 dependencies: []
