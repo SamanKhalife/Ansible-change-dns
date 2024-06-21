@@ -1,6 +1,8 @@
 Role Name
 =========
 
+### linux-dns-changer
+
 This role will help you to set new DNS servers IP for your hosts.
 
 Requirements
