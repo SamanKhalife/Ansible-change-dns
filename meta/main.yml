@@ -1,5 +1,5 @@
 galaxy_info:
-  role_name: Changing-Dns
+  role_name: changing_dns
   author: Saman Khalife
   namespace: samankhalife
   description: This role will help you  to set a new dns servers ip for your hosts
