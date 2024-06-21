@@ -1,8 +1,9 @@
 galaxy_info:
   role_name: Changing-Dns
-  author: Saman_Khalife
+  author: Saman Khalife
   namespace: samankhalife
   description: This role will help you  to set a new dns servers ip for your hosts
+  issue_tracker_url: https://github.com/SamanKhalife/Ansible-change-dns/issues
   license: license (MIT)
   min_ansible_version: "2.9"
   platforms:
