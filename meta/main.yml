@@ -12,6 +12,5 @@ galaxy_info:
         - all
   galaxy_tags:
     - dns
-    - setting_dns
-    - changing_dns
+    - resolv.conf
 dependencies: []
