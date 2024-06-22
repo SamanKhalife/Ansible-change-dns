@@ -1,7 +1,4 @@
-Role Name
-=========
-
-### linux-dns-changer
+# linux-dns-changer
 
 [This role will help you to set new DNS servers IP for your hosts.](https://galaxy.ansible.com/ui/standalone/roles/SamanKhalife/changing_dns/)
 
